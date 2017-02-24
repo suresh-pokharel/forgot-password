@@ -12,8 +12,11 @@ Clone the project and keep in your local server's folder (ie. htdocs).
 Create a database named 'loginmanager' and import sql file kept inside database. If you want to use your own database name, change in `db_config.php` file. Two tables `user` and `forget_password` are used, You can add or create these tables in your own existing database.
 
 `$host = 'localhost';
+
 $username = 'root';
+
 $password = '';
+
 $database = 'loginmanager'; //your database name here`
 
 ### Step-3
