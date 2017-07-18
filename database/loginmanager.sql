@@ -1,3 +1,9 @@
+/*
+      Author  : Suresh Pokharel
+      Email   : suresh.wrc@gmail.com
+      GitHub  : github.com/suresh021
+      URL     : psuresh.com.np
+*/;
 -- phpMyAdmin SQL Dump
 -- version 4.6.5.2
 -- https://www.phpmyadmin.net/
