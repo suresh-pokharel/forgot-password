@@ -1,4 +1,13 @@
 <?php
+/*
+      Author  : Suresh Pokharel
+      Email   : suresh.wrc@gmail.com
+      GitHub  : github.com/suresh021
+      URL     : psuresh.com.np
+*/ 
+?>
+
+<?php
 include("db_config.php");
 if($_SERVER["REQUEST_METHOD"] == "POST"){
     // username and password 
