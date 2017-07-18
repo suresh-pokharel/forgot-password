@@ -1,4 +1,13 @@
 <?php
+/*
+      Author  : Suresh Pokharel
+      Email   : suresh.wrc@gmail.com
+      GitHub  : github.com/suresh021
+      URL     : psuresh.com.np
+*/ 
+?>
+
+<?php
 	session_start();
 	include("db_config.php");
 	if(!isset($_SESSION['login_user'])) {
