@@ -51,6 +51,8 @@ else{
 
 * If key matches, its takes to `forget_password_reset.php` page. After user resets the password, the key is immediately deleted from the database so that same key cannot be used again.and, password is updated.
 
+### If you are trying to use this on your local server, please make sure that you have configured sendMail.php file correctly.
+
 
 
 
